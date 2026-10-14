@@ -13,3 +13,6 @@ The schema and exchange tools are being designed around IFC, COBie and OpenUSD, 
 I’m looking for collaborators to help develop and test this: developers, designers, engineers, information managers and people who use asset information. Contributions could include code, exchange mappings, test models, practical requirements or feedback from trying it on real work.
 
 Bytes2BIM
+
+<img width="960" height="788" alt="image" src="https://github.com/user-attachments/assets/8c450020-171c-43d4-b610-a451b9a44e47" />
+
